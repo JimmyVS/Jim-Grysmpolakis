@@ -4,12 +4,12 @@
 
 Hello, I am **Jim Grysmpolakis**👋! I am a dedicated game and app developer with a passion for crafting digital experiences.
 
-💻 My journey in the world of development began 9 years ago, and since then, I've been on a continuous quest for learning and innovation. From simple programs to award winning games and apps, every line of code is a step towards building better, more engaging solutions.
+💻 My journey in the world of development began 7 years ago, and since then, I've been on a continuous quest for learning and innovation. From simple programs to award winning games and apps, every line of code is a step towards building better, more engaging solutions.
 
 When not engrossed in the realm of programming, you might find me exploring the latest tech trends, experimenting with new frameworks, or diving into the world of Artificial Intelligence.
 
 ### More things about me:
-- 🔭 I’m currently working on a python app.
+- 🔭 I’m currently working on a password generator app.
 - 🌱 I’m currently learning html and css.
 - 💬 Ask me about any topic you like.
 - 🌟 My Motto: "A failure is just a reminder to keep trying".
