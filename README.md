@@ -34,7 +34,7 @@ Here are some projects I'm particularly proud of:
   
 - Email Address: JimmyGrys@hotmail.com
 - Itch.io Website: [https://dimvs.itch.io/](https://dimvs.itch.io/)
-- ![Itch Website](https://dimvs.itch.io/&show_icons=true&hide_border=true)
+  ![Itch Website](https://dimvs.itch.io/)
 - Phone Number: 6987474781
 
 Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
