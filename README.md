@@ -1,6 +1,6 @@
-# Hello, I'm Jim Grysmpolakis! 👋
-
 ![HeaderGithub](https://github.com/JimmyVS/Jim-Grysmpolakis/assets/96888699/c24dc63b-4450-4009-a38a-47c7353184e0)
+
+# Hello, I'm Jim Grysmpolakis! 👋
 
 ## About Me
 
