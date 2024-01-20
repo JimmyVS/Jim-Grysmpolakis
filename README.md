@@ -23,7 +23,7 @@ I'm a programmer with a passion for python, java. I specialize in making apps an
 
 Here are some projects I'm particularly proud of:
 
-- [Project 1](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and then it translates it to texts via google's speech                                                                recognition service. 
-- [Project 2](https://github.com/JimmyVS/Binary-converter): A Python tool to convert decimal numbers to binary and binary numbers to decimal. Simple, user-friendly, and great for                                                             learning binary representation.
+- [Speech to text](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and                                                                  then it translates it to texts via google's speech                                                                                recognition service. 
+- [Binary Converter](https://github.com/JimmyVS/Binary-converter): A Python tool to convert decimal numbers to binary and binary                                                                     numbers to decimal. Simple, user-friendly, and great for                                                                          learning binary representation.
 
 Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
