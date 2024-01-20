@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, I'm Jimgr1! 👋
+# Hello, I'm Jim Grysmpolakis! 👋
 
 I'm a passionate programmer from Greece with a strong interest in python and c++. Welcome to my GitHub profile!
 
@@ -16,7 +16,7 @@ Here are some of the projects I'm proud of:
 - [Project 2](link-to-project-2): Brief description of the project.
 - [Project 3](link-to-project-3): Brief description of the project.
 
-You can find more of my projects on [my portfolio website](link-to-portfolio) or [GitHub repositories](link-to-github-repositories).
+You can find more of my projects on [GitHub repositories](link-to-github-repositories).
 
 ## 🚀 Skills
 
