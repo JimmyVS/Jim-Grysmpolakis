@@ -1,50 +1,29 @@
-<!-- Your Name -->
 # Hello, I'm Jim Grysmpolakis! 👋
 
-I'm a passionate programmer from Greece with a strong interest in python and c++. Welcome to my GitHub profile!
+## About Me
 
-## 🌱 About Me
+I'm a programmer with a passion for python, java. I specialize in making apps and I enjoy hanging out with my family and friends. 
 
-- 🔭 I’m currently working on a brand new game.
-- 🌱 I’m currently learning c#.
+- 🔭 I’m currently working on a python app.
+- 🌱 I’m currently learning html and css.
+- 💬 Ask me about any topic you like.
+- 📫 Phone number: 6987474781
 
-## 💼 My Projects
+## Skills
 
-Here are some of the projects I'm proud of:
+- **Programming Languages: ** python, java, c++ and javascript. 
+- **Frameworks & Libraries: ** tkinter, pygame, auto-py-to-gui, raylib, TensorFlow.
+- **Tools & Technologies: ** I use VSCode to write code. In addition, I used to write code in pyCharm.
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+## My GitHub Stats
 
-You can find more of my projects on [GitHub repositories](link-to-github-repositories).
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyVS&show_icons=true&hide_border=true)
 
-## 🚀 Skills
+## Featured Projects
 
-- Languages: python, c++, arduino programming, javascript, lua.
-- Frameworks and Libraries: raylib, pygame, random, time.
-- Tools and Technologies: Visual Studio Code
+Here are some projects I'm particularly proud of:
 
-## 📚 Learning Resources
+- [Project 1](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and then it translates it to texts via google's speech                                                                recognition service. 
+- [Project 2](https://github.com/JimmyVS/Binary-converter): A Python tool to convert decimal numbers to binary and binary numbers to decimal. Simple, user-friendly, and great for                                                             learning binary representation.
 
-I'm constantly learning and here are some of the resources I recommend:
-
-- [Resource 1](link-to-resource-1): Brief description.
-- [Resource 2](link-to-resource-2): Brief description.
-- [Resource 3](link-to-resource-3): Brief description.
-
-## 🌍 Connect with Me
-
-Let's connect and have a chat:
-
-- [Twitter](link-to-twitter)
-- [LinkedIn](link-to-linkedin)
-- [Email](mailto:youremail@example.com)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-Feel free to explore my repositories and get in touch. Happy coding!
-
+Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
