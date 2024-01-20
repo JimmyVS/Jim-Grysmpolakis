@@ -1,5 +1,7 @@
 # Hello, I'm Jim Grysmpolakis! 👋
 
+![HeaderGithub](https://github.com/JimmyVS/Jim-Grysmpolakis/assets/96888699/c24dc63b-4450-4009-a38a-47c7353184e0)
+
 ## About Me
 
 I am a dedicated game and app developer with a passion for crafting digital experiences.
