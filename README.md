@@ -27,13 +27,13 @@ When not engrossed in the realm of programming, you might find me exploring the 
 
 Here are some projects I'm particularly proud of:
 
-- [Speech to text](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and                                                                  then it translates it to texts via google's speech recognition service. 
-- [Binary Converter](https://github.com/JimmyVS/Binary-converter): A Python tool to convert decimal numbers to binary and binary                                                                     numbers to decimal. Simple, user-friendly, and great for learning binary representation.
+- [Speech to text](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and then it translates it to texts via google's speech recognition service. 
+- [Binary Converter](https://github.com/JimmyVS/Binary-converter): A Python tool to convert decimal numbers to binary and binary numbers to decimal. Simple, user-friendly, and great for learning binary.
 
-  ## Contact Me
+## Contact Me
   
 - Email Address: JimmyGrys@hotmail.com
-- Phone Number: 6987474781
 - Itch.io website: [https://dimvs.itch.io/](https://dimvs.itch.io/)
+- Phone Number: 6987474781
 
 Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
