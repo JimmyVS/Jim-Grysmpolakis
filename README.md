@@ -1,10 +1,8 @@
 ![HeaderGithub](https://github.com/JimmyVS/Jim-Grysmpolakis/assets/96888699/c24dc63b-4450-4009-a38a-47c7353184e0)
 
-# Hello, I'm Jim Grysmpolakis! 👋
-
 ## About Me
 
-I am a dedicated game and app developer with a passion for crafting digital experiences.
+Hello, I am **Jim Grysmpolakis**👋! I am a dedicated game and app developer with a passion for crafting digital experiences.
 
 💻 My journey in the world of development began 9 years ago, and since then, I've been on a continuous quest for learning and innovation. From simple programs to award winning games and apps, every line of code is a step towards building better, more engaging solutions.
 
