@@ -12,6 +12,7 @@ When not engrossed in the realm of programming, you might find me exploring the 
 - 🔭 I’m currently working on a python app.
 - 🌱 I’m currently learning html and css.
 - 💬 Ask me about any topic you like.
+- 🌟 My Motto: "A failure is just a reminder to keep trying".
 
 ## Skills
 
