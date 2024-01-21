@@ -29,8 +29,9 @@ When not engrossed in the realm of programming, you might find me exploring the 
 Here are some projects I'm particularly proud of:
 
 - [Speech to text](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and then it translates it to texts via google's speech recognition service. 
-- [Binary Converter](https://github.com/JimmyVS/Binary-converter): A Python tool to convert decimal numbers to binary and binary numbers to decimal. Simple, user-friendly, and great for learning binary.
-
+- [Password Generator](https://github.com/JimmyVS/Password-Generator): The Password Generator is a Python script that leverages the Tkinter library to create an interactive and user-friendly graphical user interface for generating random passwords.
+- [Game Of Life](https://github.com/JimmyVS/Game-Of-Life): This repository contains a Python implementation of Conway's Game of Life using the Pygame library for visualization and user interaction. 
+  
 ## Contact Me
   
 - Email Address: JimmyGrys@hotmail.com
