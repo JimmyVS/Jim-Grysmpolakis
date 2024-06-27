@@ -29,8 +29,8 @@ When not engrossed in the realm of programming, you might find me exploring the 
 Here are some projects I'm particularly proud of:
 
 - [Speech to text](https://github.com/JimmyVS/Speech-To-Text): This is a simple program in python. It listens for any sound and then it translates it to texts via google's speech recognition service. 
-- [Password Generator](https://github.com/JimmyVS/Password-Generator): The Password Generator is a Python script that leverages the Tkinter library to create an interactive and user-friendly graphical user interface for generating random passwords.
-- [Game Of Life](https://github.com/JimmyVS/Game-Of-Life): This repository contains a Python implementation of Conway's Game of Life using the Pygame library for visualization and user interaction. 
+- [Hand Detection](https://github.com/JimmyVS/Hand-Detection): The GitHub repository "Hand-Detection" by JimmyVS provides a Python project for real-time hand detection using MediaPipe. It features capabilities for detecting single or multiple hands, visualizing hand landmarks, recognizing finger gestures, and calculating distances between fingertips.
+- [Maths AI](https://github.com/JimmyVS/Math_Solver_AI): This script builds, trains, evaluates, and tests a neural network for simple arithmetic operations. It loads data from a CSV file containing arithmetic problems, preprocesses it by scaling the features, and splits it into training and testing sets. 
   
 ## Contact Me
   
