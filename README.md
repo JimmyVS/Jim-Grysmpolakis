@@ -9,16 +9,16 @@ Hello, I am **Jim Grysmpolakis**👋! I am a dedicated game and app developer wi
 When not engrossed in the realm of programming, you might find me exploring the latest tech trends, experimenting with new frameworks, or diving into the world of Artificial Intelligence.
 
 ### More things about me:
-- 🔭 I’m currently working on a password generator app.
-- 🌱 I’m currently learning html and css.
+- 🔭 I’m currently working on a game called **Bare Survival**.
+- 🌱 I’m currently learning C Sharp.
 - 💬 Ask me about any topic you like.
 - 🌟 My Motto: "A failure is just a reminder to keep trying".
 
 ## Skills
 
-- Programming Languages:  python, java, c++ and javascript. 
-- Frameworks & Libraries:  tkinter, pygame, auto-py-to-gui, raylib, TensorFlow.
-- Tools & Technologies:  I use VSCode to write code. In addition, I used to write code in pyCharm.
+- Programming Languages:  python, java, c++, javascript and C Sharp. 
+- Frameworks & Libraries:  tkinter, pygame, PyTorch, raylib, TensorFlow.
+- Tools & Technologies:  I use VSCode to write code.
 
 ## My GitHub Stats
 
